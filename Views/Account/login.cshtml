@@ -1,0 +1,52 @@
+﻿@model LoginViewModel
+
+
+<div class="background d-flex align-items-center justify-content-center vh-100">
+    <div class="container">
+        <h2 class="text-center text-white" style="font-weight: 700">Welcome back to Fringes</h2>
+        <div class="row">
+            <div class="col-md-6 offset-md-3">
+                <form asp-action="Login" method="post">
+                    <div asp-validation-summary="All"></div>
+                    <div class="form-group pb-3">
+                        <label asp-for="Username " class="control-label text-white"></label>
+                        <input asp-for="Username" class="form-control" placeholder="username required" />
+                        <span asp-validation-for="Username" class="text-danger"></span>
+                    </div>
+                    <div class="form-group pb-3">
+                        <label asp-for="Password" class="control-label text-white"></label>
+                        <input asp-for="Password" class="form-control" placeholder="password required" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-group d-flex pb-3">
+                        <label class="control-label text-white" style="padding-right: 10px">Remember Me</label><br />
+                        <div class="form-check form-check-inline">
+                            <input type="checkbox" asp-for="Rememberme" value="true" class="form-check-input" />
+                            <label class="form-check-label text-white"></label>
+                        </div>
+                        <span asp-validation-for="Rememberme" class="text-danger"></span>
+                    </div>
+                    <div class="form-group d-flex justify-content-center text-align-center">
+                        <button type="submit" class="btn btn-primary" style="background-color: purple; border-color: purple;">Login</button>
+                    </div>
+
+                    <h3 class="d-flex justify-content-center align-items-center text-white ">or</h3>
+
+                    <hr class="text-white"/>
+
+
+
+                    <btn class="g-signin2 d-flex justify-content-center align-items-center text-white" data-onsuccess="onSignIn">
+                        <h4 class="" style="padding-right: 10px">Sign in With Google</h4>
+                        <img src="/img/google_logo.jpeg" alt="Google Logo" class="google-logo"> 
+                    </btn>
+
+                   <div class="d-flex justify-content-center align-items-center text-white pt-3">
+                        <h5>No account yet? then click <span><a href=" Register">here</a></span> to join in the fun</h5>
+                   </div>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
