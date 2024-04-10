@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\FringesMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|c:\\users\\user\\source\\repos\\fringesmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|c:\\users\\user\\source\\repos\\fringesmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|c:\\users\\user\\source\\repos\\fringesmvc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|c:\\users\\user\\source\\repos\\fringesmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B53EBBEE-D6CF-4F71-B76A-B1BC8A759D13}|FringesMVC.csproj|c:\\users\\user\\source\\repos\\fringesmvc\\wwwroot\\js\\chat.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
@@ -117,7 +117,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,20 +178,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FringesMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\FringesMVC\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml*",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAswFABAAAHAAAA",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FringesMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAIBAAAAAAAAAADwv0IBAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-12T14:47:57.53Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FringesMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
@@ -204,13 +204,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\user\\source\\repos\\FringesMVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\user\\source\\repos\\FringesMVC\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "wwwroot\\css\\site.css*",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCYAAAABAAAA",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\FringesMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-17T09:57:47.565Z",
               "EditorCaption": ""
